@@ -1,5 +1,14 @@
 body {
-  background-color: black;
   font-family: Arial;
-  color: white;
+}
+
+#sidebar {
+	background-color: #32a4e7;
+    color: #ffffff;
+    padding: 10px;
+    width: 360px;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    position: absolute;
 }
